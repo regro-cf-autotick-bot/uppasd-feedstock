@@ -1,2 +1,4 @@
+fortran_compiler_version:   # [win]
+  - 22                      # [win]
 mkl:
-  - '2025'  # [win]
+  - '2026'  # [win]
