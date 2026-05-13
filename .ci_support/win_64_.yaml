@@ -9,7 +9,7 @@ channel_targets:
 fortran_compiler:
 - flang
 fortran_compiler_version:
-- '21'
+- '22'
 mkl:
 - '2026'
 target_platform:
