@@ -1,3 +1,2 @@
-# ongoing transition to 22.1.5; pin to a patch version to complete the mkl transition
 fortran_compiler_version:   # [win]
-  - 22.1.4                  # [win]
+  - 22                      # [win]
